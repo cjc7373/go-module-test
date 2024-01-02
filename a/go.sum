@@ -1,0 +1,6 @@
+github.com/cjc7373/go-module-test/b v1.0.0 h1:L23drDacDIw9lMyCfltbkeGzt3MMhQScUiuk63H6TB4=
+github.com/cjc7373/go-module-test/b v1.0.0/go.mod h1:+PIgCRRp6BjEeQHF2+pKHduxm4g7OY2vODZWbginojM=
+github.com/cjc7373/go-module-test/c v1.0.0 h1:h4ua/aIM+vy5xZ/pwNRYZuEgfmnw0oJTZep0U5WDGqs=
+github.com/cjc7373/go-module-test/c v1.0.0/go.mod h1:W5EskpoI3koLhJY3UYh4+kHGbtXIjdtDJJHlTN4Oiv0=
+github.com/cjc7373/go-module-test/d v1.1.0 h1:mDHH5xd8l7ySWjS1x6AQvvwrRtpoiscgX2DGci7Vu08=
+github.com/cjc7373/go-module-test/d v1.1.0/go.mod h1:pEEQNtEWeA7D0sbG6YZ1s7lP80y6XSjbsk+Tkb2GIb8=
