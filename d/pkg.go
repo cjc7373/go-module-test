@@ -1,5 +1,5 @@
 package d
 
-func What() string {
-	return "D 1.0"
+func What() float32 {
+	return 1.1
 }
